@@ -37,15 +37,15 @@
 }
 
 .quarter {
-    flex: 1;
+    width: 25%;
 }
 
 .half {
-    flex: 2;
+    width: 50%;
 }
 
 .tree-quarter {
-    flex: 3 ;
+    flex-grow: 1;
 }
 
 .nav-list {
